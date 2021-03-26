@@ -1,0 +1,6 @@
+{
+  "Legs/Shoulders": ["Squats", "Leg Press", "Bulgarian Squats", "Shoulder Press", "Lateral Raises"],
+  "Back/Biceps": ["Pull-Ups", "Deadlifts", "Lat Pulldown", "Hammer Curls", "Twist Curls"],
+  "Chest/Triceps": ["Pushups", "Bench", "Incline Bench", "Tricep Pushdowns", "Skull Crushers"],
+  "Core": ["Planks", "Crunches", "Leg Lifts", "Dead Bugs", "Side Planks"]
+}

@@ -1,0 +1,15 @@
+{
+   "Version": "2020-11-26",
+   "Statement": [
+       {
+           "Effect": "Allow",
+           "Action": [
+               "lambda:InvokeFunction",
+               "dynamodb:PutItem"
+           ],
+           "Resource": [
+               "*"
+           ]
+       }
+   ]
+}
